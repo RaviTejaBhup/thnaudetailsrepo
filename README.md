@@ -1,2 +1,2 @@
-# thanuudetailsrepo
+# thanudetailsrepo
 an example project repo
